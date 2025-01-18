@@ -1,6 +1,6 @@
 # Joint-Distribution-Weighted-Alignment
 
-<img src="JDWA_cropped.pdf" width="80%">
+<img src="JDWA.png" width="80%">
 
 Pytorch code for the work "Joint Distribution Weighted Alignment for Multi-Source Domain Adaptation via Kernel Relative Entropy Estimation" published in IEEE Transactions on Multimedia.
 
