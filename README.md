@@ -14,9 +14,9 @@ For the details of this work,  please refer to the paper below:
   title={Joint Distribution Weighted Alignment for Multi-Source Domain Adaptation via Kernel Relative Entropy Estimation},   
   year={2025},      
   volume = {},      
-  pages = {},     
+  pages = {1 - 14},     
   issn = {},       
-  doi = {}     
+  doi = {10.1109/TMM.2025.3586109}     
   }
 
 If you have questions regarding the code, please contact me via the email sentaochenmail@gmail.com.
