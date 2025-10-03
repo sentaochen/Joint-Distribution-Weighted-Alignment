@@ -13,9 +13,8 @@ For the details of this work,  please refer to the paper below:
   journal={IEEE Transactions on Multimedia},   
   title={Joint Distribution Weighted Alignment for Multi-Source Domain Adaptation via Kernel Relative Entropy Estimation},   
   year={2025},      
-  volume = {},      
-  pages = {1 - 14},     
-  issn = {},       
+  volume = {27},      
+  pages = {6606-6619},        
   doi = {10.1109/TMM.2025.3586109}     
   }
 
